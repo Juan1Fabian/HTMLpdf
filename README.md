@@ -74,6 +74,6 @@ accesodatos/
 
 ---
 
-**Autor**
+## Autor
 
-- Juan Fabian Trucios Quispe
+# Juan Fabian Trucios Quispe
